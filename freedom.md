@@ -38,6 +38,6 @@ Software is technically a series of abstract command language called programming
 
 Hacking means cutting at first. If you don't hack you'll get hacked. Like I said above Life is a Battleground and I just want to hack.
 
-Free Software or Open Source(in this context i point to Expat/MIT and BSD style licenses) licenses works if someone or a team or a community protects it. **DO NOT* walk alone. What i offer is again collective consciousness.
+Free Software or Open Source(in this context i point to Expat/MIT and BSD style licenses) licenses works if someone or a team or a community protects it. **DO NOT** walk alone. What i offer is again collective consciousness.
 
 A person is a person for another person. This is the spirit.
