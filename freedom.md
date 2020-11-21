@@ -40,4 +40,4 @@ Hacking means cutting at first. If you don't hack you'll get hacked. Like I said
 
 Free Software or Open Source(in this context i point to Expat/MIT and BSD style licenses) licenses works if someone or a team or a community protects it. **DO NOT** walk alone. What i offer is again collective consciousness.
 
-A person is a person for another person. This is the spirit.
+A person is a person for another person. That is the spirit.
