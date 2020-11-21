@@ -1,6 +1,6 @@
 # Freedom 
 
-* A critics of hacking business
+* A criticism of hacking business
 
 ## Hacking itself
 
