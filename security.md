@@ -1,6 +1,7 @@
 BSD 3-Clause License
 
-Copyright (c) 2020, Mert Gör and contributors
+Copyright (c) 2020, Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers 
+Copyright (c) terapistonia community and it's contributors
 
 All rights reserved.
 
